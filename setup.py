@@ -23,7 +23,7 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 """
 
-VERSION = '0.0.3'
+VERSION = '0.0.5'
 DESCRIPTION = 'Makes it easier to use the processing-py module derived from processing.org.'
 LONG_DESCRIPTION = 'A framework for the processing-py module that makes it easier to use and create processing.org projects. Similar to the processing.org application and the p5.js system.'
 
