@@ -1,6 +1,10 @@
 # Processing_App_Framework
 Makes it easier to create Processing.org Applications with the PyPi processing-py module
 
+Install:
+`pip install Processing-Framework-py`
+
+
 HOW TO USE:
 1.  Create a file that has a class with the name of your choosing.
 2.  Inside that class add two functions setup() and draw().
@@ -12,3 +16,6 @@ HOW TO USE:
     For example, code such as "app.background(255)" which will set the background to white.
     (Have a look at https://processing.org/reference for more information about the functions and variables)
 5. Finally after your app class call the function Run(x) with x being the name of your class.
+
+[Pypi Link](https://pypi.org/project/Processing-Framework-py)
+
